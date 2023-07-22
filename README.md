@@ -5,6 +5,7 @@ A "Find a Friend API" se trata de uma API desenvolvida em <i>Node.js</i> com o m
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
+![image](https://github.com/HiLucred/Find-a-Friend-API/assets/90939916/71160c7b-161e-49b9-a5b4-058a9ae179e7)
 
 ## Certifique-se de ter as seguintes tecnologias instaladas em sua máquina:
 
